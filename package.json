@@ -1,0 +1,51 @@
+<<<<<<< HEAD
+{
+  "name": "fridge-app-mvp",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "node -e \"process.exit(0)\""
+  },
+  "dependencies": {
+    "next": "^16.1.7",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "eslint": "^9.34.0",
+    "eslint-config-next": "^16.1.7",
+    "typescript": "^5.9.2"
+  }
+}
+=======
+{
+  "name": "fridge-app-mvp",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "node -e \"process.exit(0)\""
+  },
+  "dependencies": {
+    "next": "^16.1.7",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "eslint": "^9.34.0",
+    "eslint-config-next": "^16.1.7",
+    "typescript": "^5.9.2"
+  }
+}
+>>>>>>> 4736e626c9ed31bc58a496a2f597f218b6d33e36
